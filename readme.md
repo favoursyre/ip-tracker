@@ -1,4 +1,6 @@
 # IP Tracker
+## Disclaimer
+This script is for educational purposes only, I don't endorse or promote it's illegal usage
 
 ## Table of Contents
 
