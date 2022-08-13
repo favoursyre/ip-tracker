@@ -12,7 +12,7 @@ except Exception as e:
 
 
 #Commencing the code
-def locate(ipAddress = None):
+def locate(ipAddress: str = None):
     #This checks if an IP Address was given
     if ipAddress == None:
         ipAddress = urllib.request.urlopen('https://api.ipify.org/').read().decode('utf8')
